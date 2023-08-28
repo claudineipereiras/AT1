@@ -12,6 +12,7 @@ namespace Activity06_003
         {
             int myNum = 15;
             Console.WriteLine(myNum);
+            Console.WriteLine("this is a change to " + myNum);
         }
     }
 }

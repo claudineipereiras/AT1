@@ -1,0 +1,8 @@
+C:\Users\claud\Documents\GitHub\AT1\Activity06-003\bin\Debug\Activity06-003.exe.config
+C:\Users\claud\Documents\GitHub\AT1\Activity06-003\bin\Debug\Activity06-003.exe
+C:\Users\claud\Documents\GitHub\AT1\Activity06-003\bin\Debug\Activity06-003.pdb
+C:\Users\claud\Documents\GitHub\AT1\Activity06-003\obj\Debug\Activity06-003.csproj.AssemblyReference.cache
+C:\Users\claud\Documents\GitHub\AT1\Activity06-003\obj\Debug\Activity06-003.csproj.SuggestedBindingRedirects.cache
+C:\Users\claud\Documents\GitHub\AT1\Activity06-003\obj\Debug\Activity06-003.csproj.CoreCompileInputs.cache
+C:\Users\claud\Documents\GitHub\AT1\Activity06-003\obj\Debug\Activity06-003.exe
+C:\Users\claud\Documents\GitHub\AT1\Activity06-003\obj\Debug\Activity06-003.pdb
